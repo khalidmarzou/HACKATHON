@@ -1,0 +1,4 @@
+--> first Problem :
+    - Failed opening required '/database' in index.php in controllers folder;
+--> second problem :
+    - Failed opening required '/database' in verifyEmail.php in api folder;
